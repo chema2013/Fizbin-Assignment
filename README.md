@@ -4,7 +4,7 @@ This README would normally document whatever steps are necessary to get your app
 
 ### What is this repository for? ###
 
-*This is an assignment that is part of the application process for my internship semester
+* This is an assignment that is part of the application process for my internship semester
 
 ### How do I get set up? ###
 
